@@ -14,17 +14,6 @@ Bu proje, teknolojik cihazların üretim ve kayıt süreçlerini yönetmek için
 
 ---
 
-TechnologyRecordingSystemOOP
-├── entities
-│   ├── abstracts
-│   │   └── BaseMachine.cs  # Ortak özellikleri ve metodları içeren sınıf
-│   ├── concretes
-│   │   ├── Computer.cs     # Bilgisayar sınıfı
-│   │   └── Phone.cs        # Telefon sınıfı
-├── Program.cs              # Uygulamanın giriş noktası
-└── README.md               # Proje açıklamaları
-
-
 ## 🛠️ Kurulum ve Kullanım
 
 1. Bu projeyi bilgisayarınıza klonlayın:
