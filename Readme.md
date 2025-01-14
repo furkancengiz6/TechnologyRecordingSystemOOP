@@ -19,3 +19,6 @@ Bu proje, teknolojik cihazların üretim ve kayıt süreçlerini yönetmek için
 1. Bu projeyi bilgisayarınıza klonlayın:
    ```bash
    git clone https://github.com/furkancengiz6/TechnologyRecordingSystemOOP.git
+
+   
+![Ekran görüntüsü 2025-01-14 144318](https://github.com/user-attachments/assets/4ced2f18-3f36-4865-b829-5529aa334fe0)
